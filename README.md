@@ -1,12 +1,12 @@
 #Index
 
--[Introduction](# Saphyra-Python-3.6-Fixed-Bugs)
--[Instructions](# How to run the code)
--[End](# End)
--[Disclaimers](# Disclaimers)
--[Useful links](## Shoutouts)
--[Credits](### A big shoutout to xdferlesh1 for making this code)
--[Socials](# Drop a follow both here and (if you need help) on Instagram.)
+-[Introduction](#Saphyra-Python-3.6-Fixed-Bugs)
+-[Instructions](#How to run the code)
+-[End](#End)
+-[Disclaimers](#Disclaimers)
+-[Useful links](##Shoutouts)
+-[Credits](###A big shoutout to xdferlesh1 for making this code)
+-[Socials](#Drop a follow both here and (if you need help) on Instagram.)
 
 
 
